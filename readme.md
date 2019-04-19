@@ -11,7 +11,7 @@ People who have dived head-first into the kool-aid filled pool of React & Redux 
 ## [Fundamentals](#fundamentals)
 I can think of no resource that does a better job of introducing someone to the craft of User Interface Development on the web. This book assumes you know almost nothing. It can be boring at times, but these topics matter. Writing good semantic markup that is accessible and findable is a skill i'm noticing many are leaving out these days. Writing bullet-proof CSS is also among that list of rare skills.  
 
-[InterACT with Web Standards: A holistic approach to web design](https://www.amazon.com/InterACT-Web-Standards-holistic-approach)
+[InterACT with Web Standards: A holistic approach to web design](https://www.amazon.com/InterACT-Web-Standards-holistic-approach/dp/0321703529)
 It is a bit old of a text by now, but the fundamentals haven't changed.
 
 ## [Javascript](#javascript)
