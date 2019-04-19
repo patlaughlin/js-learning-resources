@@ -53,6 +53,9 @@ Levvel owns a license to this course.
 At the very least, read the entire "Introduction" section of the Documentation.
 [When should I use Redux?](https://redux.js.org/faq/general#when-should-i-use-redux)
 A valid question worth asking yourself, often.
+[Redux Observable](https://github.com/redux-observable/redux-observable)
+This provides a solution to when you _want_ side-effects to occur in redux. Understanding RxJS will be very important, however.
+[Learn RxJS](https://www.learnrxjs.io/)
 
 ### Lecture Based
 [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
