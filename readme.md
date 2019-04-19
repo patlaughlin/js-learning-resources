@@ -43,7 +43,7 @@ Probably the most important article to read in regard to React.
 [Wes Bos's Advanced React Course](https://advancedreact.com/)
 Levvel owns a license to this course.
 
-##@# Lecture Based
+### Lecture Based
 [Complete Intro to React v4](https://frontendmasters.com/courses/complete-react-v4/)
 [Intermediate React](https://frontendmasters.com/courses/intermediate-react/)
 
